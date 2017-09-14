@@ -1,0 +1,22 @@
+node JS_FILE_NAME.js to run a js file
+
+Install node module
+----------------------
+npm install underscore | backbone | etc..
+
+Create package.json
+----------------------
+npm init
+
+Install node module and update the package
+------------------------------------------
+npm install backbone -S
+
+Then can remove the node_modules from the project
+npm install will download all the required modules 
+
+Server.js
+----------
+http node module is built in with node
+
+
